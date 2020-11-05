@@ -1,2 +1,3 @@
 có 1 dự án mỗi người  code 1 máy riêng và hẹn nhau gom code lại , nhưng việc gom code rất là phức tạp nên thay vì gom code thì chúng ta 
 code ở 1 chỗ chung thì gọi đó là git nhưng git thể nào code trực tiếp đc mà phải update  lên github
+jdf
